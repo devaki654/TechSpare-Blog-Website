@@ -25,6 +25,7 @@ Install Node.js and npm (if not installed)
 Make sure you have Node.js installed. You can check by runn
 
 node -v
+
 npm -v
 
 2. Initialize a Node.js Project (Optional)
