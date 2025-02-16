@@ -20,7 +20,7 @@ TechSpare is a modern and responsive blog website that allows users to read, pos
 ### Prerequisites
 Ensure you have the following installed on your system:
 - [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/)
+
 Install Node.js and npm (if not installed)
 Make sure you have Node.js installed. You can check by runn
 
